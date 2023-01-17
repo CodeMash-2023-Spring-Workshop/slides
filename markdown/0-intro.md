@@ -3,7 +3,7 @@
 - Husband
 - Father
 - Spring Developer Advocate
-- Maker of things
+- https://danvega.dev
 - Cleveland Ohio
 
 ---
@@ -12,9 +12,13 @@
 - Husband
 - Father
 - Spring Developer Advocate
-- Struggling Athlete
+- https://dashaun.com
 - Kansas City Missouri
 
 ---
 
 ![Spring Office Hours](images/soh.png "Spring Office Hours")
+
+---
+
+#SpringOfficeHours
